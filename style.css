@@ -36,10 +36,12 @@ body{
     text-align: center;
  }
  #ladoalado{
+     aspect-ratio: 16/9;
     display:flex;
     margin: 0 auto 0;
 }
 #centro{
+    aspect-ratio: 16/9;
     margin: 0 auto;
     width: 80%;
 }
