@@ -1,5 +1,7 @@
 @charset "UTF-8";
 body{
+    
+    aspect-ratio: 16/9;
     background-image: url(Imagens/istockphoto-1330933047-1024x1024.jpg);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
