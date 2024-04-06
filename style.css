@@ -31,12 +31,14 @@ body{
      max-height: 600px;
  }
  img{
+     
     aspect-ratio: 16/9;
     text-align: center;
  }
  #ladoalado{
      aspect-ratio: 16/9;
-    display:flex;
+    
+     float:left;
     margin: 0 auto 0;
 }
 #centro{
