@@ -34,8 +34,13 @@ body{
     aspect-ratio: 16/9;
     text-align: center;
  }
+ #ladoalado{
+     aspect-ratio: 16/9;
+     float:left;
+    margin: 0 auto 0;
 }
 #centro{
+    height:80%;
     aspect-ratio: 16/9;
     margin: 0 auto;
     width: 80%;
