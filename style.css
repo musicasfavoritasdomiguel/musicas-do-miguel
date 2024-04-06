@@ -38,6 +38,8 @@ body{
      aspect-ratio: 16/9;
      float:left;
     margin: 0 auto 0;
+     width:70%;
+     heigth:70%;
 }
 #centro{
     height:80%;
