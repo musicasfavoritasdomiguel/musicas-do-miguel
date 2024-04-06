@@ -42,8 +42,6 @@ body{
      heigth:70%;
 }
 #centro{
-    height:80%;
     aspect-ratio: 16/9;
     margin: 0 auto;
-    width: 80%;
 }
